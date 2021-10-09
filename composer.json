@@ -1,5 +1,5 @@
 {
-    "name": "vendor/package-test",
+    "name": "package-test",
     "description": "this is test package",
     "type": "library",
     "authors": [
